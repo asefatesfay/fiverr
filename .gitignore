@@ -1,2 +1,3 @@
 /fiverrUi/node_modules
-/fiverr/Ui/.env*.DS_Store
+/fiverr/Ui/.env*
+.DS_Store
