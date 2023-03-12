@@ -7,6 +7,7 @@ import Footer from "./components/footer/Footer";
 import Navbar from "./components/navbar/Navbar"
 import Home from "./pages/home/Home";
 import Messages from "./pages/messages/Messages";
+import Message from "./pages/message/Message";
 import MyGigs from "./pages/myGigs/MyGigs";
 import Gigs from "./pages/gigs/Gigs";
 import Gig from "./pages/gig/Gig";
@@ -56,6 +57,10 @@ function App() {
         {
           path: "/gig",
           element: <Gig />
+        },
+        {
+          path: "/message/123",
+          element: <Message />
         }
       ]
     },
