@@ -27,7 +27,7 @@ const Message = () => {
 
           <div className="item owner">
             <img
-              src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/108333371/original/b7dcf649b10de56b8dca9b1b05b1d07c660f6bb2/create-3d-ebook-covers.jpg"
+              src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/4c971e61dedc5e2ceb10e82090dbb85e-1678365896/Sample%202.png"
               alt=""
             />
             <p>
@@ -53,7 +53,7 @@ const Message = () => {
 
           <div className="item owner">
             <img
-              src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/108333371/original/b7dcf649b10de56b8dca9b1b05b1d07c660f6bb2/create-3d-ebook-covers.jpg"
+              src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/4c971e61dedc5e2ceb10e82090dbb85e-1678365896/Sample%202.png"
               alt=""
             />
             <p>
@@ -78,7 +78,7 @@ const Message = () => {
 
           <div className="item owner">
             <img
-              src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/108333371/original/b7dcf649b10de56b8dca9b1b05b1d07c660f6bb2/create-3d-ebook-covers.jpg"
+              src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/4c971e61dedc5e2ceb10e82090dbb85e-1678365896/Sample%202.png"
               alt=""
             />
             <p>
@@ -103,7 +103,7 @@ const Message = () => {
 
           <div className="item owner">
             <img
-              src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/108333371/original/b7dcf649b10de56b8dca9b1b05b1d07c660f6bb2/create-3d-ebook-covers.jpg"
+              src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/4c971e61dedc5e2ceb10e82090dbb85e-1678365896/Sample%202.png"
               alt=""
             />
             <p>
@@ -129,7 +129,7 @@ const Message = () => {
 
           <div className="item owner">
             <img
-              src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/108333371/original/b7dcf649b10de56b8dca9b1b05b1d07c660f6bb2/create-3d-ebook-covers.jpg"
+              src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/4c971e61dedc5e2ceb10e82090dbb85e-1678365896/Sample%202.png"
               alt=""
             />
             <p>
@@ -154,7 +154,7 @@ const Message = () => {
 
           <div className="item owner">
             <img
-              src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/108333371/original/b7dcf649b10de56b8dca9b1b05b1d07c660f6bb2/create-3d-ebook-covers.jpg"
+              src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_delivery_web_tile/v1/attachments/delivery/asset/4c971e61dedc5e2ceb10e82090dbb85e-1678365896/Sample%202.png"
               alt=""
             />
             <p>
